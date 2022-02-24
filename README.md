@@ -6,20 +6,6 @@ This project try to share knowlege and some tips to build in the cloud. The main
 
 
 1. Overview of Java Development
-1. Setup environment
-1. Object Oriented Programming
-1. Classe and Objects in Java
-1. [Inheritance in Java](src/com/demo/inheritance/README.md)
-1. [Encapsulation in Java](src/com/demo/encapsulation/README.md)
-1. [Polymorphism in Java](src/com/demo/polymorphism/README.md)
-1. [Control Structures](src/com/demo/control/README.md)
-1. [Java Arrays](src/com/demo/arrays/README.md)
-1. Collections
-1. Exceptions
-1. Java IO
-1. Java 8 Features
-
-
 
 
 
