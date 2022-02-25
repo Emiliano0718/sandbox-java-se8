@@ -1,0 +1,27 @@
+{
+    "name": "Rocky",
+    "lastname": "Balboa",
+    "age": 80,
+    "active": false,
+    "socialNetwork": null,
+    "movies": [ "Rocky I", "Rocky II", "Rocky III"  ],
+    "allies":[
+        {
+            "name": "Adrian",
+            "lastname": "Balboa",
+            "relationship": "wife"
+        },        
+        {
+            "name": "Apollo",
+            "lastname": "Creed",
+            "relationship": "Friend"
+        },
+        {
+            "name": "Adonis",
+            "lastname": "Creed"
+        }
+    ],
+    "random": [ 1, true, "A string", 35.23, null, [ 6,7,9 ]  ]
+
+
+}

@@ -5,8 +5,9 @@ Right now it easy start in Java Programming or at least more friendly. A lot of 
 This project try to share knowlege and some tips to build in the cloud. The main topics are
 
 
-1. Overview of Java Development
-
+1. Java Development
+1. Design Patterns
+1. Spring Boot
 
 
 The project is evolving, I allways will improving things. I hope this could you help you in your own journey.
